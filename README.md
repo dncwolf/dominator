@@ -1,4 +1,4 @@
-# DOMINATOR — PSYCHO-PASS 犯罪係数解析システム
+# DOMINATOR
 
 YouTube 動画から人物を検出し、感情・姿勢・文脈情報をもとに犯罪係数を算出するローカル実行ツール。
 
