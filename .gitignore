@@ -11,3 +11,4 @@ wheels/
 
 output
 *.pt
+.DS_Store
